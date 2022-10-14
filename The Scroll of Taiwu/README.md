@@ -25,6 +25,7 @@
   <li>
     下記ファイル内のMonoBehaviour<br>
     The Scroll Of Taiwu\The Scroll of Taiwu_Data\GameResources\views.uab<br>
+    ここに書くには対象ファイルが多すぎるのでgrep_views_uab_MonoBehaviour.txtを参照<br>
   <li>
     下記プログラム内に定数として記述している<br>
     The Scroll Of Taiwu\The Scroll of Taiwu_Data\Managed\Assembly-CSharp.dll<br>
