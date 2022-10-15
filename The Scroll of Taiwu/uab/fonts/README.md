@@ -1,5 +1,4 @@
-このフォルダには日本の文字を表示するためのThe Scroll Of Taiwu\The Scroll of Taiwu_Data\GameResources\fonts.uabに対する差し替え用フォントなどを格納している。
-
+このディレクトリには日本の文字を表示するためのThe Scroll Of Taiwu\The Scroll of Taiwu_Data\GameResources\fonts.uabに対する差し替え用フォントなどを格納している。
 
 <ul>
   <li>
