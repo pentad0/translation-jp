@@ -5,11 +5,13 @@
 対象ファイルリスト
 <ul>
   <li>
-    全てのイベントテキスト<br>
+    全てのイベントテキスト
+    
     The Scroll Of Taiwu\Event\EventLanguages\*.txt
   </li>
   <li>
-    下記ファイル内のフォント<br>
+    下記ファイル内のフォント
+    
     The Scroll Of Taiwu\The Scroll of Taiwu_Data\GameResources\fonts.uab
     <ul>
       <li>Font SDF BIG5 Core 1</li>
@@ -34,7 +36,8 @@
     ここに書くには対象ファイルが多すぎるので.\uabの各ディレクトリを参照
   </li>
   <li>
-    下記プログラム内に定数として記述している<br>
+    下記プログラム内に定数として記述している
+    
     The Scroll Of Taiwu\The Scroll of Taiwu_Data\Managed\Assembly-CSharp.dll
     <ul>
       <li>The Scroll Of Taiwu\Assembly-CSharp\GMCombatEditor.cs</li>
