@@ -10,9 +10,7 @@
     The Scroll Of Taiwu\Event\EventLanguages\*.txt
   </li>
   <li>
-    下記ファイル内のフォント
-    
-    The Scroll Of Taiwu\The Scroll of Taiwu_Data\GameResources\fonts.uab
+    The Scroll Of Taiwu\The Scroll of Taiwu_Data\GameResources\fonts.uab内のフォント
     <ul>
       <li>Font SDF BIG5 Core 1</li>
       <li>Font SDF BIG5 Core 2</li>
@@ -36,9 +34,7 @@
     ここに書くには対象ファイルが多すぎるので.\uabの各ディレクトリを参照
   </li>
   <li>
-    下記プログラム内に定数として記述している
-    
-    The Scroll Of Taiwu\The Scroll of Taiwu_Data\Managed\Assembly-CSharp.dll
+    The Scroll Of Taiwu\The Scroll of Taiwu_Data\Managed\Assembly-CSharp.dllのソースに定数として記述している
     <ul>
       <li>The Scroll Of Taiwu\Assembly-CSharp\GMCombatEditor.cs</li>
       <li>The Scroll Of Taiwu\Assembly-CSharp\GMCombatSkillEditor.cs</li>
@@ -68,6 +64,7 @@
 <img src="./img/jpSample.png">
 
 uabファイルに外出しされているアセットはともかくAssembly-CSharp.dllの書き換えだけはやりたくなかったがどうにもならなかった。
+
 公式がテキストを全て外出しにしてくれないものだろうか…
 
 # To Do
